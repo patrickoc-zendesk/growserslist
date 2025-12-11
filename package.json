@@ -1,10 +1,10 @@
 {
   "name": "growserslist",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Package to help in popular typo: growserslist instead of browserslist",
-  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "author": "Patrick O'Carroll",
   "license": "MIT",
-  "repository": "browserslist/typo",
+  "repository": "patrickoc-zendesk/growserslist",
   "bin": "./cli.js",
   "dependencies": {
     "chalk": "^2.4.1"
